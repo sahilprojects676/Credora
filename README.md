@@ -14,28 +14,6 @@
 
 ---
 
-## 📸 Preview
-
-<p align="center">
-  <img src="public/assets/Screenshot 2026-08-09 130733.png" alt="Credora Home Page" width="850">
-</p>
-<p align="center">
-  <img src="" alt="Credora Home Page" width="850">
-</p>
-<p align="center">
-  <img src="" alt="Credora Home Page" width="850">
-</p>
-<p align="center">
-  <img src="" alt="Credora Home Page" width="850">
-</p>
-<p align="center">
-  <img src="" alt="Credora Home Page" width="850">
-</p>
-
-
-
----
-
 ## 📌 About
 
 **Credora Card Expert** is a web-based credit card recommendation platform that helps users find cards based on their spending habits and preferences.
