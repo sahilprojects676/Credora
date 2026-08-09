@@ -32,7 +32,7 @@ function money(n){ return "₹" + Number(n || 0).toLocaleString("en-IN"); }
 
 const API_BASE = (window.location.port === "5000" || window.location.protocol === "file:")
   ? ""
-  : "http://localhost:5000";
+  : "https://credora-1-3kow.onrender.com";
 
 async function api(endpoint, options={}){
   const target = API_BASE + endpoint;
@@ -198,7 +198,7 @@ async function loadCards(resetView=true){
     $("#cardGrid").innerHTML=`<div class="error">
       <b>Unable to load cards.</b>
       <span>Please make sure the Credora backend is running at
-      <code>http://localhost:5000</code>.</span>
+      <code>https://credora-1-3kow.onrender.com</code>.</span>
     </div>`;
     $("#showMoreCards")?.classList.add("hidden");
   }
@@ -251,7 +251,7 @@ async function loadCompareCardList(){
     renderCompareCardList();
   }catch(e){
     console.error("Credora compare card list error:",e);
-    list.innerHTML=`<div class="error"><b>Unable to load card list.</b><span>Please make sure the Credora backend is running at <code>http://localhost:5000</code>.</span></div>`;
+    list.innerHTML=`<div class="error"><b>Unable to load card list.</b><span>Please make sure the Credora backend is running at <code>https://credora-1-3kow.onrender.com</code>.</span></div>`;
   }
 }
 
