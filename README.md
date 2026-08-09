@@ -17,19 +17,19 @@
 ## 📸 Preview
 
 <p align="center">
-  <img src=""C:\Users\sahil\Pictures\Screenshots\Screenshot 2026-08-09 130733.png"" alt="Credora Home Page" width="850">
+  <img src="public/assets/Screenshot 2026-08-09 130733.png" alt="Credora Home Page" width="850">
 </p>
 <p align="center">
-  <img src=""C:\Users\sahil\Pictures\Screenshots\Screenshot 2026-08-09 130740.png"" alt="Credora Home Page" width="850">
+  <img src="" alt="Credora Home Page" width="850">
 </p>
 <p align="center">
-  <img src=""C:\Users\sahil\Pictures\Screenshots\Screenshot 2026-08-09 130808.png""alt="Credora Home Page" width="850">
+  <img src="" alt="Credora Home Page" width="850">
 </p>
 <p align="center">
-  <img src=""C:\Users\sahil\Pictures\Screenshots\Screenshot 2026-08-09 130841.png"" alt="Credora Home Page" width="850">
+  <img src="" alt="Credora Home Page" width="850">
 </p>
 <p align="center">
-  <img src=""C:\Users\sahil\Pictures\Screenshots\Screenshot 2026-08-09 130902.png"" alt="Credora Home Page" width="850">
+  <img src="" alt="Credora Home Page" width="850">
 </p>
 
 
