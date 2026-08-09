@@ -20,7 +20,7 @@ A smart and responsive credit card recommendation platform that helps users disc
 
   <img src="public/assets/Screenshot 2026-08-09 130841.png" alt="Credora Recommendations" width="30%">
 
-  <img src="public/assets/Screenshot 2026-08-09 130902.png" alt="Credora Recommendations" width="30%"
+  <img src="public/assets/Screenshot 2026-08-09 130902.png" alt="Credora Recommendations" width="30%">
 
 </p>
 
