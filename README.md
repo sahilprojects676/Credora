@@ -2,14 +2,14 @@
 
 > **Smart credit card recommendations based on your spending habits.**
 
+## 📸 Preview
+
 <p align="center">
-  <a href="https://credoracardexpert.vercel.app/">
-    🚀 <b>Live Demo</b>
-  </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/sahilprojects676/Credora">
-    💻 <b>GitHub</b>
-  </a>
+  <img src="public/assets/Screenshot 2026-08-09 130733.png" alt="Credora Home" width="30%">
+  <img src="public/assets/Screenshot 2026-08-09 130740.png" alt="Credora Finder" width="30%">
+  <img src="public/assets/Screenshot 2026-08-09 130808.png" alt="Credora Recommendations" width="30%">
+  <img src="public/assets/Screenshot 2026-08-09 130841.png" alt="Credora Recommendations" width="30%">
+  <img src="public/assets/Screenshot 2026-08-09 130902.png" alt="Credora Recommendations" width="30%">
 </p>
 
 ---
