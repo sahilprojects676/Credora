@@ -1,44 +1,175 @@
 # 💳 Credora Card Expert
 
-### Find the right credit card based on the way you spend.
+> **Smart credit card recommendations based on your spending habits.**
 
-Credora Card Expert is a web-based credit card recommendation platform that helps users discover suitable credit cards based on their spending habits, cashback preferences, UPI usage, shopping, travel, dining, fuel expenses, and annual fee preferences.
+<p align="center">
+  <a href="https://credoracardexpert.vercel.app/">
+    🚀 <b>Live Demo</b>
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/sahilprojects676/Credora">
+    💻 <b>GitHub</b>
+  </a>
+</p>
 
-🌐 **Live Demo:** [Credora Card Expert](https://credoracardexpert.vercel.app/)
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src=""C:\Users\sahil\Pictures\Screenshots\Screenshot 2026-08-09 130733.png"" alt="Credora Home Page" width="850">
+</p>
+<p align="center">
+  <img src=""C:\Users\sahil\Pictures\Screenshots\Screenshot 2026-08-09 130740.png"" alt="Credora Home Page" width="850">
+</p>
+<p align="center">
+  <img src=""C:\Users\sahil\Pictures\Screenshots\Screenshot 2026-08-09 130808.png""alt="Credora Home Page" width="850">
+</p>
+<p align="center">
+  <img src=""C:\Users\sahil\Pictures\Screenshots\Screenshot 2026-08-09 130841.png"" alt="Credora Home Page" width="850">
+</p>
+<p align="center">
+  <img src=""C:\Users\sahil\Pictures\Screenshots\Screenshot 2026-08-09 130902.png"" alt="Credora Home Page" width="850">
+</p>
+
+
+
+---
+
+## 📌 About
+
+**Credora Card Expert** is a web-based credit card recommendation platform that helps users find cards based on their spending habits and preferences.
+
+Users answer a simple questionnaire about:
+
+- 🛒 Shopping
+- 💰 Monthly spending
+- 📱 UPI
+- ✈️ Travel
+- 🍔 Dining
+- ⛽ Fuel
+- 💡 Bills & utilities
+- 💳 Annual fee preferences
+
+Credora analyzes these preferences and recommends suitable credit cards.
 
 ---
 
 ## ✨ Features
 
-- 💳 Personalized credit card recommendations
-- 💰 Cashback-focused recommendations
-- 🛒 Shopping preference analysis
-- 📱 UPI spending consideration
-- ✈️ Travel preference analysis
-- 🍔 Dining and lifestyle spending analysis
-- ⛽ Fuel spending consideration
-- 💡 Bills & utility spending analysis
-- 💵 Annual fee preference
-- 📊 Spending-based recommendation logic
-- 📱 Responsive and user-friendly interface
+- 🧠 Personalized credit card recommendations
+- 💰 Cashback & reward-focused matching
+- 📊 Spending analysis
+- 🛒 Shopping preference matching
+- 📱 UPI & travel preferences
+- 🔍 Search and filter credit cards
+- ⚖️ Compare multiple cards
+- 📱 Responsive design
+- 🔌 REST API
 
 ---
 
-## 🧠 How Credora Works
-
-Credora asks users a few simple questions about their spending habits and preferences.
+## 🧠 How It Works
 
 ```text
-User
-  ↓
-Answer Questions
-  ↓
-Enter Monthly Spending
-  ↓
-Analyze Spending Habits
-  ↓
-Match Card Benefits
-  ↓
-Calculate Recommendation
-  ↓
-Show Recommended Cards
+User Preferences
+       ↓
+Spending Profile
+       ↓
+Card Matching
+       ↓
+Recommendation Score
+       ↓
+Top Recommended Cards
+```
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| HTML5 | Structure |
+| CSS3 | Styling |
+| JavaScript | Frontend logic |
+| Node.js | Backend |
+| Express.js | REST API |
+| JSON | Card data |
+| Vercel | Deployment |
+
+---
+
+## 📂 Project Structure
+
+```text
+Credora/
+├── .github/
+├── data/
+├── public/
+├── server.js
+├── package.json
+├── README.md
+├── .gitignore
+└── LICENSE
+```
+
+---
+
+## 🚀 Run Locally
+
+### Clone
+
+```bash
+git clone https://github.com/sahilprojects676/Credora.git
+cd Credora
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Start server
+
+```bash
+node server.js
+```
+
+Open:
+
+```text
+http://localhost:3000
+```
+
+---
+
+## 🌐 Live Demo
+
+🚀 **https://credoracardexpert.vercel.app/**
+
+---
+
+## ⚠️ Disclaimer
+
+Credora is an informational recommendation tool.
+
+Credit card fees, cashback rates, rewards, eligibility, and other terms may change. Always verify the latest information with the respective card issuer before applying.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+<p align="center">
+
+### 💳 Credora Card Expert
+
+**Spend smarter. Choose better.**
+
+⭐ Star the repository if you like the project!
+
+</p>
