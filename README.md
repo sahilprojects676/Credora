@@ -1,7 +1,19 @@
 # 💳 Credora Card Expert
 
 > **Smart credit card recommendations based on your spending habits.**
+# 💳 Credora Card Expert
 
+> **Smart credit card recommendations based on your spending habits.**
+
+<p align="center">
+  <a href="https://credoracardexpert.vercel.app/">
+    🚀 <b>Live Demo</b>
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/sahilprojects676/Credora">
+    💻 <b>GitHub</b>
+  </a>
+</p>
 ## 📸 Preview
 
 <p align="center">
