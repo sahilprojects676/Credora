@@ -1,0 +1,2152 @@
+[
+  {
+    "id": "sbi-cashback",
+    "name": "SBI Cashback Card",
+    "issuer": "SBI Card",
+    "network": "Visa",
+    "annualFee": 999,
+    "rewardType": "cashback",
+    "primaryRewardRate": 5,
+    "annualRewardCap": 60000,
+    "categories": [
+      "Shopping",
+      "Online Shopping"
+    ],
+    "shoppingPartners": [
+      "Amazon",
+      "Flipkart",
+      "Myntra"
+    ],
+    "travelScore": 5,
+    "upiScore": 4,
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 10,
+      "Bills & Utility": 3,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 4
+    },
+    "tag": "Best for online shopping",
+    "color": "#173B72",
+    "description": "A cashback-focused card suited to users who spend heavily online.",
+    "pros": [
+      "Strong online cashback",
+      "Simple cashback structure",
+      "Useful for online shopping"
+    ],
+    "cons": [
+      "Several spending categories can be excluded",
+      "Annual fee applies"
+    ],
+    "highlights": [
+      "5% online cashback on eligible spends",
+      "1% on eligible offline spends",
+      "Fuel surcharge benefit subject to terms"
+    ]
+  },
+  {
+    "id": "amazon-pay-icici",
+    "name": "Amazon Pay ICICI Credit Card",
+    "issuer": "ICICI Bank",
+    "network": "Visa",
+    "annualFee": 0,
+    "rewardType": "cashback",
+    "primaryRewardRate": 5,
+    "annualRewardCap": 50000,
+    "categories": [
+      "Shopping",
+      "Online Shopping",
+      "Bills & Utility"
+    ],
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "travelScore": 4,
+    "upiScore": 5,
+    "benefitScores": {
+      "Travel": 4,
+      "Shopping": 10,
+      "Bills & Utility": 5,
+      "Dining": 4,
+      "Fuel": 3,
+      "UPI": 5
+    },
+    "tag": "Best lifetime-free option",
+    "color": "#111827",
+    "description": "A lifetime-free option for Amazon-focused shoppers and everyday spending.",
+    "pros": [
+      "No joining or annual fee",
+      "Strong Amazon rewards",
+      "Easy to understand"
+    ],
+    "cons": [
+      "Not a premium travel card",
+      "Rewards vary by merchant/category"
+    ],
+    "highlights": [
+      "Up to 5% back on eligible Amazon spending for Prime members",
+      "2% on eligible Amazon Pay merchant transactions",
+      "1% on many other eligible spends"
+    ]
+  },
+  {
+    "id": "axis-ace",
+    "name": "Axis ACE Credit Card",
+    "issuer": "Axis Bank",
+    "network": "Visa",
+    "annualFee": 499,
+    "rewardType": "cashback",
+    "primaryRewardRate": 5,
+    "annualRewardCap": 30000,
+    "categories": [
+      "Bills & Utility",
+      "Dining",
+      "Shopping"
+    ],
+    "shoppingPartners": [],
+    "travelScore": 4,
+    "upiScore": 7,
+    "benefitScores": {
+      "Travel": 4,
+      "Shopping": 5,
+      "Bills & Utility": 10,
+      "Dining": 8,
+      "Fuel": 5,
+      "UPI": 7
+    },
+    "tag": "Best for bills & utilities",
+    "color": "#7C3AED",
+    "description": "A cashback card designed around selected utility and everyday spending categories.",
+    "pros": [
+      "Strong utility-focused value",
+      "Useful dining benefits",
+      "Reasonable annual fee"
+    ],
+    "cons": [
+      "Payment route/category conditions apply",
+      "Reward caps and exclusions apply"
+    ],
+    "highlights": [
+      "Eligible utility and telecom cashback subject to current terms",
+      "Dining benefits at eligible partners",
+      "Annual fee waiver conditions may apply"
+    ]
+  },
+  {
+    "id": "hdfc-millennia",
+    "name": "HDFC Millennia Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "Visa",
+    "annualFee": 1000,
+    "rewardType": "cashback",
+    "primaryRewardRate": 5,
+    "annualRewardCap": 30000,
+    "categories": [
+      "Shopping",
+      "Online Shopping",
+      "Dining"
+    ],
+    "shoppingPartners": [
+      "Amazon",
+      "Flipkart",
+      "Myntra"
+    ],
+    "travelScore": 5,
+    "upiScore": 4,
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 9,
+      "Bills & Utility": 3,
+      "Dining": 7,
+      "Fuel": 4,
+      "UPI": 4
+    },
+    "tag": "Balanced cashback card",
+    "color": "#0F5AA8",
+    "description": "A balanced cashback option for online shopping and everyday spends.",
+    "pros": [
+      "Good online merchant coverage",
+      "Useful cashback structure",
+      "HDFC ecosystem"
+    ],
+    "cons": [
+      "Fee applies",
+      "Category exclusions apply"
+    ],
+    "highlights": [
+      "5% cashback at selected online merchants",
+      "CashPoints on other eligible spends",
+      "Milestone benefits may apply"
+    ]
+  },
+  {
+    "id": "tata-neu-infinity",
+    "name": "Tata Neu Infinity HDFC Bank Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "RuPay",
+    "annualFee": 1499,
+    "rewardType": "points",
+    "primaryRewardRate": 5,
+    "annualRewardCap": 50000,
+    "categories": [
+      "Shopping",
+      "Travel",
+      "UPI",
+      "Dining"
+    ],
+    "shoppingPartners": [],
+    "travelScore": 7,
+    "upiScore": 9,
+    "benefitScores": {
+      "Travel": 7,
+      "Shopping": 8,
+      "Bills & Utility": 4,
+      "Dining": 6,
+      "Fuel": 4,
+      "UPI": 10
+    },
+    "tag": "Best for Tata + UPI",
+    "color": "#B91C1C",
+    "description": "A premium Tata ecosystem card with UPI support on the RuPay variant.",
+    "pros": [
+      "Strong Tata ecosystem rewards",
+      "UPI support",
+      "Travel and lounge-related benefits"
+    ],
+    "cons": [
+      "Annual fee",
+      "Best value depends on Tata ecosystem usage"
+    ],
+    "highlights": [
+      "NeuCoins on eligible Tata Neu spends",
+      "RuPay UPI support",
+      "Travel benefits subject to current terms"
+    ]
+  },
+  {
+    "id": "flipkart-sbi",
+    "name": "Flipkart SBI Card",
+    "issuer": "SBI Card",
+    "network": "Visa",
+    "annualFee": 500,
+    "rewardType": "cashback",
+    "primaryRewardRate": 5,
+    "annualRewardCap": 40000,
+    "categories": [
+      "Shopping",
+      "Online Shopping",
+      "Travel"
+    ],
+    "shoppingPartners": [
+      "Flipkart",
+      "Myntra"
+    ],
+    "travelScore": 5,
+    "upiScore": 4,
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 10,
+      "Bills & Utility": 2,
+      "Dining": 4,
+      "Fuel": 4,
+      "UPI": 4
+    },
+    "tag": "Best for Flipkart & Myntra",
+    "color": "#2563EB",
+    "description": "A co-branded shopping card for frequent Flipkart and Myntra users.",
+    "pros": [
+      "Strong Flipkart value",
+      "Myntra benefits",
+      "Low entry fee"
+    ],
+    "cons": [
+      "Partner-specific value",
+      "Terms and cashback caps apply"
+    ],
+    "highlights": [
+      "5% cashback on eligible Flipkart spends",
+      "Higher benefits on eligible Myntra spends",
+      "Travel offers may be available"
+    ]
+  },
+  {
+    "id": "idfc-first-wow",
+    "name": "IDFC FIRST WOW Credit Card",
+    "issuer": "IDFC FIRST Bank",
+    "network": "Visa",
+    "annualFee": 0,
+    "rewardType": "points",
+    "primaryRewardRate": 1,
+    "annualRewardCap": 20000,
+    "categories": [
+      "Shopping",
+      "Travel",
+      "Bills & Utility"
+    ],
+    "shoppingPartners": [],
+    "travelScore": 6,
+    "upiScore": 5,
+    "benefitScores": {
+      "Travel": 6,
+      "Shopping": 5,
+      "Bills & Utility": 5,
+      "Dining": 4,
+      "Fuel": 5,
+      "UPI": 5
+    },
+    "tag": "Lifetime-free starter",
+    "color": "#0F766E",
+    "description": "A lifetime-free card positioned as an accessible starter option.",
+    "pros": [
+      "No annual fee",
+      "Simple entry-level proposition",
+      "Useful for building credit history"
+    ],
+    "cons": [
+      "Lower rewards than premium cashback cards",
+      "Eligibility and security-deposit conditions may apply"
+    ],
+    "highlights": [
+      "Lifetime-free structure",
+      "Reward points on eligible spends",
+      "Travel and lifestyle offers subject to terms"
+    ]
+  },
+  {
+    "id": "hsbc-live-plus",
+    "name": "HSBC Live+ Credit Card",
+    "issuer": "HSBC",
+    "network": "Visa",
+    "annualFee": 999,
+    "rewardType": "cashback",
+    "primaryRewardRate": 5,
+    "annualRewardCap": 30000,
+    "categories": [
+      "Dining",
+      "Shopping",
+      "Bills & Utility"
+    ],
+    "shoppingPartners": [],
+    "travelScore": 4,
+    "upiScore": 4,
+    "benefitScores": {
+      "Travel": 4,
+      "Shopping": 5,
+      "Bills & Utility": 4,
+      "Dining": 10,
+      "Fuel": 3,
+      "UPI": 4
+    },
+    "tag": "Best for dining",
+    "color": "#B42318",
+    "description": "A cashback-focused option with a strong dining proposition.",
+    "pros": [
+      "Strong dining cashback",
+      "Useful grocery benefits",
+      "Good for food-heavy spending"
+    ],
+    "cons": [
+      "Annual fee",
+      "Best value depends on eligible categories"
+    ],
+    "highlights": [
+      "High cashback on eligible dining",
+      "Cashback on eligible grocery spending",
+      "Terms and caps apply"
+    ]
+  },
+  {
+    "id": "scapia",
+    "name": "Scapia Federal Bank Credit Card",
+    "issuer": "Federal Bank",
+    "network": "Visa",
+    "annualFee": 0,
+    "rewardType": "points",
+    "primaryRewardRate": 5,
+    "annualRewardCap": 50000,
+    "categories": [
+      "Travel",
+      "Shopping",
+      "UPI"
+    ],
+    "shoppingPartners": [],
+    "travelScore": 10,
+    "upiScore": 8,
+    "benefitScores": {
+      "Travel": 10,
+      "Shopping": 5,
+      "Bills & Utility": 2,
+      "Dining": 5,
+      "Fuel": 3,
+      "UPI": 8
+    },
+    "tag": "Travel-focused",
+    "color": "#0E7490",
+    "description": "A travel-focused card aimed at users who prioritize travel value and low-fee usage.",
+    "pros": [
+      "Travel-focused rewards",
+      "Lifetime-free proposition",
+      "Useful international-spend positioning"
+    ],
+    "cons": [
+      "Travel-centric rather than utility-centric",
+      "Current benefits should be verified"
+    ],
+    "highlights": [
+      "Travel rewards on eligible spends",
+      "Travel and lounge benefits subject to current terms",
+      "Forex-related terms should be verified before international use"
+    ]
+  },
+  {
+    "id": "axis-airtel",
+    "name": "Airtel Axis Bank Credit Card",
+    "issuer": "Axis Bank",
+    "network": "Mastercard",
+    "annualFee": 500,
+    "rewardType": "cashback",
+    "primaryRewardRate": 5,
+    "annualRewardCap": 30000,
+    "categories": [
+      "Bills & Utility",
+      "Shopping",
+      "Dining"
+    ],
+    "shoppingPartners": [],
+    "travelScore": 4,
+    "upiScore": 5,
+    "benefitScores": {
+      "Travel": 4,
+      "Shopping": 5,
+      "Bills & Utility": 10,
+      "Dining": 7,
+      "Fuel": 3,
+      "UPI": 5
+    },
+    "tag": "Best for Airtel users",
+    "color": "#E11D48",
+    "description": "A utility and lifestyle cashback option for eligible Airtel and partner spending.",
+    "pros": [
+      "Strong Airtel ecosystem value",
+      "Utility-focused",
+      "Good entry fee"
+    ],
+    "cons": [
+      "Partner/category conditions",
+      "Caps and exclusions apply"
+    ],
+    "highlights": [
+      "Eligible Airtel bill benefits",
+      "Utility cashback subject to current terms",
+      "Dining and partner offers may apply"
+    ]
+  },
+  {
+    "id": "hdfc-regalia-gold",
+    "name": "HDFC Regalia Gold",
+    "issuer": "HDFC Bank",
+    "network": "Visa",
+    "annualFee": 2500,
+    "rewardType": "points",
+    "primaryRewardRate": 4,
+    "annualRewardCap": 75000,
+    "categories": [
+      "Travel",
+      "Shopping",
+      "Dining"
+    ],
+    "shoppingPartners": [],
+    "travelScore": 9,
+    "upiScore": 3,
+    "benefitScores": {
+      "Travel": 9,
+      "Shopping": 7,
+      "Bills & Utility": 2,
+      "Dining": 7,
+      "Fuel": 3,
+      "UPI": 3
+    },
+    "tag": "Premium travel & lifestyle",
+    "color": "#111827",
+    "description": "A premium travel and lifestyle card for higher annual spending.",
+    "pros": [
+      "Travel rewards",
+      "Premium lifestyle benefits",
+      "Milestone value"
+    ],
+    "cons": [
+      "Higher annual fee",
+      "Best value requires meaningful spending"
+    ],
+    "highlights": [
+      "Travel and lounge benefits subject to terms",
+      "Reward points on eligible spends",
+      "Milestone benefits may apply"
+    ]
+  },
+  {
+    "id": "hdfc-infinia",
+    "name": "HDFC Infinia Metal Edition",
+    "issuer": "HDFC Bank",
+    "network": "Visa",
+    "annualFee": 12500,
+    "rewardType": "points",
+    "primaryRewardRate": 3.3,
+    "annualRewardCap": 150000,
+    "categories": [
+      "Travel",
+      "Shopping",
+      "Dining",
+      "UPI"
+    ],
+    "shoppingPartners": [],
+    "travelScore": 10,
+    "upiScore": 4,
+    "benefitScores": {
+      "Travel": 10,
+      "Shopping": 10,
+      "Bills & Utility": 3,
+      "Dining": 8,
+      "Fuel": 3,
+      "UPI": 4
+    },
+    "tag": "Premium high-spend",
+    "color": "#1F2937",
+    "description": "A premium invitation/eligibility-based card for high-spend users.",
+    "pros": [
+      "Premium travel ecosystem",
+      "Strong rewards",
+      "High-end lifestyle benefits"
+    ],
+    "cons": [
+      "Very high fee",
+      "Strict eligibility",
+      "Value depends on high spending"
+    ],
+    "highlights": [
+      "Premium lounge and travel benefits",
+      "Reward points through eligible spends",
+      "SmartBuy and redemption terms apply"
+    ]
+  },
+  {
+    "id": "hdfc-swiggy-credit-card",
+    "name": "HDFC Swiggy Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "Visa",
+    "annualFee": 500,
+    "primaryRewardRate": 5,
+    "annualRewardCap": 50000,
+    "rewardType": "cashback",
+    "categories": [
+      "Shopping",
+      "Dining"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon",
+      "Flipkart"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 9,
+      "Bills & Utility": 7,
+      "Dining": 9,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for HDFC Swiggy Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Shopping, Dining",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#173f76"
+  },
+  {
+    "id": "hdfc-regalia-credit-card",
+    "name": "HDFC Regalia Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "Visa",
+    "annualFee": 2500,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Travel"
+    ],
+    "travelScore": 9,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 9,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for HDFC Regalia Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Travel",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#0d5a4a"
+  },
+  {
+    "id": "hdfc-diners-club-black-metal-edition",
+    "name": "HDFC Diners Club Black Metal Edition",
+    "issuer": "HDFC Bank",
+    "network": "Visa",
+    "annualFee": 10000,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Shopping",
+      "Bills & Utility"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for HDFC Diners Club Black Metal Edition. Verify current issuer terms before publishing or applying.",
+    "tag": "Shopping, Bills & Utility",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#7b3f22"
+  },
+  {
+    "id": "hdfc-diners-club-privilege-credit-card",
+    "name": "HDFC Diners Club Privilege Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "Visa",
+    "annualFee": 2500,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Dining"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 9,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for HDFC Diners Club Privilege Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Dining",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#493b79"
+  },
+  {
+    "id": "hdfc-tata-neu-plus-credit-card",
+    "name": "HDFC Tata Neu Plus Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "Visa",
+    "annualFee": 999,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Bills & Utility",
+      "UPI"
+    ],
+    "travelScore": 5,
+    "upiScore": 9,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 9
+    },
+    "description": "Project reference profile for HDFC Tata Neu Plus Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Bills & Utility, UPI",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#274c77"
+  },
+  {
+    "id": "hdfc-indianoil-hdfc-bank-credit-card",
+    "name": "HDFC IndianOil HDFC Bank Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "Visa",
+    "annualFee": 500,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Fuel"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 9,
+      "UPI": 6
+    },
+    "description": "Project reference profile for HDFC IndianOil HDFC Bank Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Fuel",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#173f76"
+  },
+  {
+    "id": "hdfc-moneyback-credit-card",
+    "name": "HDFC MoneyBack+ Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "Visa",
+    "annualFee": 500,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Shopping",
+      "Bills & Utility",
+      "UPI"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for HDFC MoneyBack+ Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Shopping, Bills & Utility",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#0d5a4a"
+  },
+  {
+    "id": "hdfc-freedom-credit-card",
+    "name": "HDFC Freedom Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "Visa",
+    "annualFee": 999,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Shopping",
+      "Bills & Utility",
+      "UPI"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for HDFC Freedom Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Shopping, Bills & Utility",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#7b3f22"
+  },
+  {
+    "id": "hdfc-upi-rupay-credit-card",
+    "name": "HDFC UPI RuPay Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "Visa",
+    "annualFee": 999,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Bills & Utility",
+      "UPI"
+    ],
+    "travelScore": 5,
+    "upiScore": 9,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 9
+    },
+    "description": "Project reference profile for HDFC UPI RuPay Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Bills & Utility, UPI",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#493b79"
+  },
+  {
+    "id": "sbi-card-prime",
+    "name": "SBI Card PRIME",
+    "issuer": "SBI Card",
+    "network": "Visa",
+    "annualFee": 2999,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Shopping",
+      "Bills & Utility"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for SBI Card PRIME. Verify current issuer terms before publishing or applying.",
+    "tag": "Shopping, Bills & Utility",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#274c77"
+  },
+  {
+    "id": "sbi-card-elite",
+    "name": "SBI Card ELITE",
+    "issuer": "SBI Card",
+    "network": "Visa",
+    "annualFee": 4999,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Shopping",
+      "Bills & Utility"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for SBI Card ELITE. Verify current issuer terms before publishing or applying.",
+    "tag": "Shopping, Bills & Utility",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#173f76"
+  },
+  {
+    "id": "sbi-simplyclick-credit-card",
+    "name": "SBI SimplyCLICK Credit Card",
+    "issuer": "SBI Card",
+    "network": "Visa",
+    "annualFee": 499,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Shopping"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon",
+      "Flipkart"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 9,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for SBI SimplyCLICK Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Shopping",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#0d5a4a"
+  },
+  {
+    "id": "sbi-simplysave-credit-card",
+    "name": "SBI SimplySAVE Credit Card",
+    "issuer": "SBI Card",
+    "network": "Visa",
+    "annualFee": 499,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Shopping",
+      "Bills & Utility"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for SBI SimplySAVE Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Shopping, Bills & Utility",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#7b3f22"
+  },
+  {
+    "id": "sbi-bpcl-credit-card",
+    "name": "SBI BPCL Credit Card",
+    "issuer": "SBI Card",
+    "network": "Visa",
+    "annualFee": 499,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Fuel"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 9,
+      "UPI": 6
+    },
+    "description": "Project reference profile for SBI BPCL Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Fuel",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#493b79"
+  },
+  {
+    "id": "sbi-bpcl-octane-credit-card",
+    "name": "SBI BPCL Octane Credit Card",
+    "issuer": "SBI Card",
+    "network": "Visa",
+    "annualFee": 499,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Fuel"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 9,
+      "UPI": 6
+    },
+    "description": "Project reference profile for SBI BPCL Octane Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Fuel",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#274c77"
+  },
+  {
+    "id": "sbi-miles-credit-card",
+    "name": "SBI Miles Credit Card",
+    "issuer": "SBI Card",
+    "network": "Visa",
+    "annualFee": 1499,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Travel"
+    ],
+    "travelScore": 9,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 9,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for SBI Miles Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Travel",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#173f76"
+  },
+  {
+    "id": "icici-bank-coral-credit-card",
+    "name": "ICICI Bank Coral Credit Card",
+    "issuer": "ICICI Bank",
+    "network": "Visa",
+    "annualFee": 999,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Shopping"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for ICICI Bank Coral Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Shopping",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#0d5a4a"
+  },
+  {
+    "id": "icici-bank-sapphiro-credit-card",
+    "name": "ICICI Bank Sapphiro Credit Card",
+    "issuer": "ICICI Bank",
+    "network": "Visa",
+    "annualFee": 6500,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Shopping",
+      "Bills & Utility"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for ICICI Bank Sapphiro Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Shopping, Bills & Utility",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#7b3f22"
+  },
+  {
+    "id": "icici-bank-rubyx-credit-card",
+    "name": "ICICI Bank Rubyx Credit Card",
+    "issuer": "ICICI Bank",
+    "network": "Visa",
+    "annualFee": 3000,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Shopping"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for ICICI Bank Rubyx Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Shopping",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#493b79"
+  },
+  {
+    "id": "icici-bank-platinum-chip-credit-card",
+    "name": "ICICI Bank Platinum Chip Credit Card",
+    "issuer": "ICICI Bank",
+    "network": "Visa",
+    "annualFee": 0,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Shopping",
+      "Bills & Utility"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for ICICI Bank Platinum Chip Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Shopping, Bills & Utility",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#274c77"
+  },
+  {
+    "id": "icici-bank-hpcl-super-saver-credit-card",
+    "name": "ICICI Bank HPCL Super Saver Credit Card",
+    "issuer": "ICICI Bank",
+    "network": "Visa",
+    "annualFee": 500,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Fuel"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 9,
+      "UPI": 6
+    },
+    "description": "Project reference profile for ICICI Bank HPCL Super Saver Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Fuel",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#173f76"
+  },
+  {
+    "id": "axis-magnus-credit-card",
+    "name": "Axis Magnus Credit Card",
+    "issuer": "Axis Bank",
+    "network": "Visa",
+    "annualFee": 12500,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Travel"
+    ],
+    "travelScore": 9,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 9,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for Axis Magnus Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Travel",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#0d5a4a"
+  },
+  {
+    "id": "axis-atlas-credit-card",
+    "name": "Axis Atlas Credit Card",
+    "issuer": "Axis Bank",
+    "network": "Visa",
+    "annualFee": 5000,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Travel"
+    ],
+    "travelScore": 9,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 9,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for Axis Atlas Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Travel",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#7b3f22"
+  },
+  {
+    "id": "axis-horizon-credit-card",
+    "name": "Axis Horizon Credit Card",
+    "issuer": "Axis Bank",
+    "network": "Visa",
+    "annualFee": 3000,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Travel"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for Axis Horizon Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Travel",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#493b79"
+  },
+  {
+    "id": "axis-privilege-credit-card",
+    "name": "Axis Privilege Credit Card",
+    "issuer": "Axis Bank",
+    "network": "Visa",
+    "annualFee": 1500,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Dining"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 9,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for Axis Privilege Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Dining",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#274c77"
+  },
+  {
+    "id": "axis-my-zone-credit-card",
+    "name": "Axis My Zone Credit Card",
+    "issuer": "Axis Bank",
+    "network": "Visa",
+    "annualFee": 500,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Shopping",
+      "Bills & Utility"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for Axis My Zone Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Shopping, Bills & Utility",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#173f76"
+  },
+  {
+    "id": "axis-neo-credit-card",
+    "name": "Axis Neo Credit Card",
+    "issuer": "Axis Bank",
+    "network": "Visa",
+    "annualFee": 250,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Shopping"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for Axis Neo Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Shopping",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#0d5a4a"
+  },
+  {
+    "id": "axis-indianoil-credit-card",
+    "name": "Axis IndianOil Credit Card",
+    "issuer": "Axis Bank",
+    "network": "Visa",
+    "annualFee": 500,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Fuel"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 9,
+      "UPI": 6
+    },
+    "description": "Project reference profile for Axis IndianOil Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Fuel",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#7b3f22"
+  },
+  {
+    "id": "axis-indianoil-rupay-credit-card",
+    "name": "Axis IndianOil RuPay Credit Card",
+    "issuer": "Axis Bank",
+    "network": "Visa",
+    "annualFee": 500,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Fuel"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 9,
+      "UPI": 6
+    },
+    "description": "Project reference profile for Axis IndianOil RuPay Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Fuel",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#493b79"
+  },
+  {
+    "id": "au-zenith-credit-card",
+    "name": "AU Zenith+ Credit Card",
+    "issuer": "AU Small Finance Bank",
+    "network": "Visa",
+    "annualFee": 7999,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Travel"
+    ],
+    "travelScore": 9,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 9,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for AU Zenith+ Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Travel",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#274c77"
+  },
+  {
+    "id": "au-altura-credit-card",
+    "name": "AU Altura Credit Card",
+    "issuer": "AU Small Finance Bank",
+    "network": "Visa",
+    "annualFee": 499,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Shopping",
+      "Bills & Utility"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for AU Altura Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Shopping, Bills & Utility",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#173f76"
+  },
+  {
+    "id": "au-altura-plus-credit-card",
+    "name": "AU Altura Plus Credit Card",
+    "issuer": "AU Small Finance Bank",
+    "network": "Visa",
+    "annualFee": 499,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Shopping",
+      "Bills & Utility"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for AU Altura Plus Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Shopping, Bills & Utility",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#0d5a4a"
+  },
+  {
+    "id": "au-lit-credit-card",
+    "name": "AU LIT Credit Card",
+    "issuer": "AU Small Finance Bank",
+    "network": "Visa",
+    "annualFee": 0,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Shopping",
+      "Bills & Utility"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for AU LIT Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Shopping, Bills & Utility",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#7b3f22"
+  },
+  {
+    "id": "idfc-first-millennia-credit-card",
+    "name": "IDFC FIRST Millennia Credit Card",
+    "issuer": "IDFC FIRST Bank",
+    "network": "Visa",
+    "annualFee": 999,
+    "primaryRewardRate": 5,
+    "annualRewardCap": 50000,
+    "rewardType": "cashback",
+    "categories": [
+      "Shopping"
+    ],
+    "travelScore": 5,
+    "upiScore": 9,
+    "shoppingPartners": [
+      "Amazon",
+      "Flipkart"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 9,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 9
+    },
+    "description": "Project reference profile for IDFC FIRST Millennia Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Shopping",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#493b79"
+  },
+  {
+    "id": "idfc-first-select-credit-card",
+    "name": "IDFC FIRST Select Credit Card",
+    "issuer": "IDFC FIRST Bank",
+    "network": "Visa",
+    "annualFee": 500,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Shopping",
+      "Bills & Utility"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for IDFC FIRST Select Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Shopping, Bills & Utility",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#274c77"
+  },
+  {
+    "id": "idfc-first-wealth-credit-card",
+    "name": "IDFC FIRST Wealth Credit Card",
+    "issuer": "IDFC FIRST Bank",
+    "network": "Visa",
+    "annualFee": 0,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Travel"
+    ],
+    "travelScore": 9,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 9,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for IDFC FIRST Wealth Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Travel",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#173f76"
+  },
+  {
+    "id": "kotak-white-credit-card",
+    "name": "Kotak White Credit Card",
+    "issuer": "Kotak Mahindra Bank",
+    "network": "Visa",
+    "annualFee": 3000,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Shopping",
+      "Bills & Utility"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for Kotak White Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Shopping, Bills & Utility",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#0d5a4a"
+  },
+  {
+    "id": "kotak-zen-signature-credit-card",
+    "name": "Kotak Zen Signature Credit Card",
+    "issuer": "Kotak Mahindra Bank",
+    "network": "Visa",
+    "annualFee": 1500,
+    "primaryRewardRate": 2,
+    "annualRewardCap": 50000,
+    "rewardType": "points",
+    "categories": [
+      "Shopping",
+      "Bills & Utility"
+    ],
+    "travelScore": 5,
+    "upiScore": 6,
+    "shoppingPartners": [
+      "Amazon"
+    ],
+    "benefitScores": {
+      "Travel": 5,
+      "Shopping": 6,
+      "Bills & Utility": 7,
+      "Dining": 5,
+      "Fuel": 5,
+      "UPI": 6
+    },
+    "description": "Project reference profile for Kotak Zen Signature Credit Card. Verify current issuer terms before publishing or applying.",
+    "tag": "Shopping, Bills & Utility",
+    "highlights": [
+      "Rewards or cashback on eligible spends",
+      "Category benefits based on issuer terms",
+      "Eligibility and exclusions apply"
+    ],
+    "pros": [
+      "Useful category-specific benefits",
+      "Included in Credora comparison and recommendation"
+    ],
+    "cons": [
+      "Terms, caps and fees may change",
+      "Verify official issuer terms before applying"
+    ],
+    "color": "#7b3f22"
+  }
+]

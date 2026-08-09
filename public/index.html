@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Credora — find the credit card that fits your lifestyle.">
+  <title>Credora — Get Your Card</title>
+  <link rel="icon" href="assets/credora-logo.svg">
+  <link rel="stylesheet" href="css/intro.css">
+</head>
+
+<body>
+
+
+  <main class="intro-main">
+    <div class="intro-content">
+      <img class="intro-logo" src="assets/credora-logo.svg" alt="Credora">
+      <p class="intro-kicker">SMARTER CREDIT • BETTER CHOICES</p>
+      <h1>Get your card.</h1>
+      <p class="intro-subtitle">Find a credit card that fits the way you travel, shop, pay bills and spend.</p>
+
+      <a href="main.html" class="get-card" aria-label="Enter Credora">
+        <span>Get Your Card</span>
+        <span class="arrow">→</span>
+      </a>
+
+      <p class="intro-note">No login required • Personalized recommendations</p>
+    </div>
+  </main>
+
+
+
+
+  <footer class="site-footer">
+    <div class="container site-footer-inner">
+      <div class="footer-left">
+        <span class="footer-name">Credora</span>
+        <span class="footer-tagline">Smarter credit. Better choices.</span>
+      </div>
+
+      <div class="footer-center">
+        <span>© <span class="footer-year"></span> Credora</span>
+        <span class="footer-sep">•</span>
+        <span>All rights reserved</span>
+        <span class="footer-sep">•</span>
+        <a href="main.html#about">About</a>
+      </div>
+
+      <div class="footer-right">
+        <span>Created by <strong>sahilprojects676</strong></span>
+        <a href="https://github.com/sahilprojects676" target="_blank" rel="noopener noreferrer">GitHub</a>
+        <a href="https://www.linkedin.com/in/sahil-naphade-460758259/" target="_blank"
+          rel="noopener noreferrer">LinkedIn</a>
+        <a href="https://sahilprojects676.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">Portfolio</a>
+      </div>
+    </div>
+  </footer>
+  <script>
+    document.querySelectorAll(".footer-year").forEach(function (el) {
+      el.textContent = new Date().getFullYear();
+    });
+  </script>
+
+</body>
+
+</html>
